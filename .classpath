@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-12">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Modulo6-EstruturasRepetitivas"/>
+	<classpathentry kind="src" path="Modulo7"/>
+	<classpathentry kind="src" path="Sessão8"/>
+	<classpathentry kind="src" path="Sessão9_Construtores"/>
+	<classpathentry kind="src" path="Sessão9_Sobrecarga"/>
+	<classpathentry kind="src" path="Sessão9_Encapsulamento"/>
+	<classpathentry kind="src" path="Sessão10_Array"/>
+	<classpathentry kind="src" path="Sessão10_Boxing_Unboxing"/>
+	<classpathentry kind="src" path="Sessão10_LaçoForEach"/>
+	<classpathentry kind="src" path="Sessão10_Listas"/>
+	<classpathentry kind="src" path="Sessão10_ExercicioListas"/>
+	<classpathentry kind="src" path="Sessão10_Matrizes"/>
+	<classpathentry kind="src" path="Sessão11_Date"/>
+	<classpathentry kind="src" path="Sessão12_Github"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
